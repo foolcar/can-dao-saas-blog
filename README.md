@@ -2,6 +2,9 @@
 
 个人博客，专注于餐饮SaaS产品全球化 / 国际化 / 出海话题。
 
+- **GitHub**: https://github.com/foolcar/tappo-saas-blog
+- **线上地址**: https://foolcar.github.io/tappo-saas-blog/
+
 ## 技术栈
 
 - React 19 + TypeScript
